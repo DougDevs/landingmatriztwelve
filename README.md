@@ -13,14 +13,6 @@
 </p>
 
 
-
-## 💻  Sobre o Projeto
-Landing page para uma empresa que presta serviços de acabamento com gesso.  
-<br>
-[![Deploy with Vercel](https://vercel.com/button)](https://sara01romao.github.io/gesso/)
-
-
-
 ## :rocket: Tecnologias Usadas
 Front-end 
 ```
